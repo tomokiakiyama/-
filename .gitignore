@@ -235,3 +235,5 @@ _Pvt_Extensions
 # FAKE - F# Make
 .fake/
 /デバッグ
+/三角関数
+/三角関数
